@@ -58,3 +58,18 @@ Category:
 * Testing: [Selenium WebDriver, Jest, Jasmine, Cypress, Puppeteer]
 * Networking protocols: [HTTPS, TCP/IP]
 * Operating System: [Linux/Unix, Windows, macOS]
+
+## User workflow
+
+* enter location to search for
+* select interested companies
+* enter personal information
+  - education background, degree + area of study
+  - work exp, [<1 year/newgrad, 1-3 year/jr, 3-5 year/intermediate, 5-7 year/senior, 7+ year/senior]
+* select programming languages 
+* select development environment
+  - choose (multi-select) [web, mobile, db, cloud, AI/ML, test, ...]
+  - based on selected enviornment, select framework, tools, libraries that candidates are familiar with
+* click search
+* return list of job postings sorted by relevance (support different sort, soryBy company, date posted, relevance)
+
