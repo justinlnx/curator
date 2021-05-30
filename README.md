@@ -43,9 +43,9 @@ sample strings:
 common programming langauges to include:
 [C, C++, C#, Golang, Java, JavaScript, Object-C, PHP, Python, R, Ruby, Swift, TypeScript]
 
-## Development Environment
+## Area of Expertise
 
-Looking for specific development envirnment
+Looking for specific development areas
 
 Category:
 
