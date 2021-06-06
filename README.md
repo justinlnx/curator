@@ -51,7 +51,7 @@ Category:
 
 * Web Development: [Angular, ASP.NET, Django, Ember, Express, HTML/CSS, jQuery, Node.js, Rails, React, Redux, Vue, Webpack, Grunt]
 * Mobile App Development: [Android, iOS, Ionic, Kotlin, React Native, Swift, Xcode]
-* Data Science: [Artificial Intelligence, Machine Learning, Tensorflow, Scikit-learn, Pytorch]
+* Data Science: [Artificial Intelligence, Machine Learning, Tensorflow, Scikit-learn, Pytorch, MATLAB]
 * Cloud Development: [AWS, Azure]
 * Scripting language: [PowerShell, Bash]
 * Database: [Heroku, MangoDB, MySQL, Postgres, SQL, Firebase, Cosmos]
