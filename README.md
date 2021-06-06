@@ -49,13 +49,12 @@ Looking for specific development areas
 
 Category:
 
-* Web Development: [Angular, ASP.NET, Django, Ember, Express, HTML/CSS, jQuery, Node.js, Rails, React, Redux, Vue, Webpack, Grunt]
+* Web Development: [Angular, ASP.NET, Django, Ember, Express, HTML/CSS, jQuery, Node.js, PHP, Rails, React, Redux, Vue, Webpack, Grunt]
 * Mobile App Development: [Android, iOS, Ionic, Kotlin, React Native, Swift, Xcode]
 * Data Science: [Artificial Intelligence, Machine Learning, Tensorflow, Scikit-learn, Pytorch, MATLAB]
 * Cloud Development: [AWS, Azure]
-* Scripting language: [PowerShell, Bash]
+* DevOps: [PowerShell, Bash, Selenium WebDriver, Jest, Jasmine, Cypress, Puppeteer, Perf test, integration test]
 * Database: [Heroku, MangoDB, MySQL, Postgres, SQL, Firebase, Cosmos]
-* Testing: [Selenium WebDriver, Jest, Jasmine, Cypress, Puppeteer]
 * Networking protocols: [HTTPS, TCP/IP]
 * Operating System: [Linux/Unix, Windows, macOS]
 
